@@ -13,7 +13,7 @@ using Tangine;
 
 namespace Speech_bubble_types
 {
-    [Module("Speech bubble types", "Get to see the variety of speech bubbles")]
+    [Module("Speechz", "Get to see the variety of speech bubbles")]
     [Author("tonmAr")]
 
     public partial class Form1 : ExtensionForm
