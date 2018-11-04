@@ -14,7 +14,7 @@ using Tangine;
 namespace Speech_bubble_types
 {
     [Module("Speechz", "Get to see the variety of speech bubbles")]
-    [Author("tonmAr")]
+    [Author("tonmAr", ResourceName = "GitHub repository", ResourceUrl = "https://github.com/xnumad/Speechz")]
 
     public partial class Form1 : ExtensionForm
     {
